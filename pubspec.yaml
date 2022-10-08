@@ -22,9 +22,9 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.jarvan.tobias
-        pluginClass: TobiasPlugin
+#       android:
+#         package: com.jarvan.tobias
+#         pluginClass: TobiasPlugin
       ios:
         pluginClass: TobiasPlugin
 
