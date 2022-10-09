@@ -1,4 +1,4 @@
-group 'com.linkaituo.flutter_plugin_test'
+group 'com.linkaituo.flutter_plugin_test_tobias'
 version '1.0-SNAPSHOT'
 
 buildscript {
