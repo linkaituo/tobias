@@ -26,7 +26,7 @@ flutter:
         package: com.linkaituo.flutter_plugin_test_tobias
         pluginClass: FlutterPluginTestPlugin
       ios:
-        pluginClass: TobiasPlugin
+        pluginClass: FlutterPluginTestPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
