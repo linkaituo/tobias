@@ -2,6 +2,6 @@
 
 @implementation FlutterPluginTestPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
-  [SwiftFlutterPluginTestPlugin registerWithRegistrar:registrar];
+  [FlutterPluginTestPlugin registerWithRegistrar:registrar];
 }
 @end
